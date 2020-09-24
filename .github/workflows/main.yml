@@ -37,11 +37,11 @@ jobs:
         uses: refactr/action-run-pipeline@v0.1.0
         with:
           # API token
-          api_token: ${{ secrets.REFACTR_API_TOKEN }}
+          api_token:
           # Project ID
-          project_id: 
+          project_id: 5f47f0c4a13c7b18373e5556
           # Job ID
-          job_id: 
+          job_id: 5f6ce80ac0dfa8c0a79c16be
           # Variables
           variables: # optional
           # Refactr API base URL
