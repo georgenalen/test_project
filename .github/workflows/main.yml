@@ -37,6 +37,6 @@ jobs:
           # Job ID
           job_id: 5f6ce80ac0dfa8c0a79c16be
           # Variables
-          # variables: # optional
+          variables: # optional
           # Refactr API base URL
-          # api_url: # optional
+          api_url: # optional
