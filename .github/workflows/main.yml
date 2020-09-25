@@ -27,14 +27,6 @@ jobs:
         # You may pin to the exact commit or the version.
         # uses: refactr/action-run-pipeline@be91e2796aa225268e4685c0e01a26d5f800cd53
         uses: refactr/action-run-pipeline@master
-        with:
-          # API token
-          api_token: "georgeToken"
-          # Project ID
-          project_id: 5f47f0c4a13c7b18373e5556
-          # Job ID
-          job_id: 5f6ce80ac0dfa8c0a79c16be
-          # Variables
-          # variables: # optional
-          # Refactr API base URL
-          # api_url: # optional
+        # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
