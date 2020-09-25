@@ -28,7 +28,7 @@ jobs:
       - name: Refactr - Run Pipeline
        # You may pin to the exact commit or the version.
         # uses: refactr/action-run-pipeline@be91e2796aa225268e4685c0e01a26d5f800cd53
-        uses: refactr/action-run-pipeline@v0.1.1
+        uses: refactr/action-run-pipeline@v0.1.2
         with:
           # API token
           api_token: '${{ secrets.GEORGE_REFACTR }}'
