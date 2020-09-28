@@ -1,4 +1,4 @@
-![Test](https://github.com/georgenalen/test_project/workflows/ci/badge.svg?branch=devel&event=push)
+![ci](https://github.com/georgenalen/test_project/workflows/ci/badge.svg?branch=devel&event=push)
 
 RHEL 8 DISA STIG
 ================
