@@ -1,4 +1,4 @@
-https://github.com/actions/toolkit/workflows/Main%20workflow/badge.svg
+![Test](https://github.com/peaceiris/actions-gh-pages/workflows/Test/badge.svg?branch=main&event=push)
 
 RHEL 8 DISA STIG
 ================
