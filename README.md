@@ -1,3 +1,5 @@
+https://github.com/actions/toolkit/workflows/Main%20workflow/badge.svg
+
 RHEL 8 DISA STIG
 ================
 
