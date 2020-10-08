@@ -1,6 +1,7 @@
 ![ci](https://github.com/georgenalen/test_project/workflows/ci/badge.svg?branch=devel&event=push)
-;klasjdf;laskjfd;laskjf;salfjk`
+
 RHEL 8 DISA STIG
+
 ================
 
 [![pipeline status](https://gitlab.com/mindpointgroup/lockdown-enterprise/rhel-8-stig/badges/master/pipeline.svg)](https://gitlab.com/mindpointgroup/lockdown-enterprise/rhel-8-stig/commits/master)
