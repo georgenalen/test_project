@@ -1,5 +1,4 @@
 [ci](https://github.com/georgenalen/test_project/workflows/ci/badge.svg?branch=devel&event=push)
-;aklsdjf;lasdjf;
 RHEL 8 DISA STIG
 
 ================
