@@ -5,7 +5,7 @@ RHEL 8 DISA STIG
 ================
 
 ![pipeline status](https://img.shields.io/github/workflow/status/ansible-lockdown/RHEL8-CIS/CommunityToDevel?style=plastic)
-![Release](https://img.shields.io/github/v/release/ansible-lockdown/RHEL7-STIG?style=plastic)
+![Release (main branch)](https://img.shields.io/github/v/release/ansible-lockdown/RHEL7-STIG?style=plastic)
 
 Configure a RHEL 8 system to be DISA STIG compliant. All findings will be audited by default. Non-disruptive CAT I, CAT II, and CAT III findings will be corrected by default. Disruptive finding remediation can be enabled by setting `rhel8stig_disruption_high` to `yes`.
 
