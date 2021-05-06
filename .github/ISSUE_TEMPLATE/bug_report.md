@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Describe the Bug**
+**Describe the Issue**
 A clear and concise description of what the bug is.
 
 **Expected Behavior**
