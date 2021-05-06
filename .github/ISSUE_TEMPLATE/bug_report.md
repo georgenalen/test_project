@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Issue report
 about: Create a report to help us improve
 title: ''
 labels: bug
@@ -25,8 +25,8 @@ What controls are being affected by the issue
  - Ansible Server Python Version: [e.g. Python 3.7.6]
  - Additional Details:
 
-**Possible Solution**
-Enter a suggested fix here
-
 **Additional Notes**
 Anything additional goes here
+
+**Possible Solution**
+Enter a suggested fix here
