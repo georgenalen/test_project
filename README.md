@@ -3,6 +3,7 @@ RHEL 8 DISA STIG
 
 test 1
 test 2
+test 3
 ================
 
 ![pipeline status](https://img.shields.io/github/workflow/status/ansible-lockdown/RHEL8-CIS/CommunityToDevel?style=plastic)
