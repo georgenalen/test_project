@@ -9,6 +9,7 @@ test 5
 test 6
 test 7
 test 8
+test 9
 ================
 
 ![pipeline status](https://img.shields.io/github/workflow/status/ansible-lockdown/RHEL8-CIS/CommunityToDevel?style=plastic)
