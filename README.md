@@ -12,6 +12,7 @@ test 8
 test 9
 test 10
 test 11
+test 12
 ================
 
 ![pipeline status](https://img.shields.io/github/workflow/status/ansible-lockdown/RHEL8-CIS/CommunityToDevel?style=plastic)
