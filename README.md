@@ -1,6 +1,7 @@
 [ci](https://github.com/georgenalen/test_project/workflows/ci/badge.svg?branch=devel&event=push)
 RHEL 8 DISA STIG
 
+test 1
 ================
 
 ![pipeline status](https://img.shields.io/github/workflow/status/ansible-lockdown/RHEL8-CIS/CommunityToDevel?style=plastic)
