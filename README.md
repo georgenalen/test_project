@@ -14,6 +14,8 @@ test 10
 test 11
 test 12
 ================
+gpg test 1
+
 
 ================
 test for signing
