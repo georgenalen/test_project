@@ -17,6 +17,7 @@ test 12
 gpg test 1
 ================
 test 1 from code server
+test 2 from code server
 
 test for signing
 test for signgin 2
