@@ -1,7 +1,36 @@
+[ci](https://github.com/georgenalen/test_project/workflows/ci/badge.svg?branch=devel&event=push)
 RHEL 8 DISA STIG
-================
 
-[![pipeline status](https://gitlab.com/mindpointgroup/lockdown-enterprise/rhel-8-stig/badges/master/pipeline.svg)](https://gitlab.com/mindpointgroup/lockdown-enterprise/rhel-8-stig/commits/master)
+test 1
+test 2
+test 3
+test 4
+test 5
+test 6
+test 7
+test 8
+test 9
+test 10
+test 11
+test 12
+
+
+Test 111
+Test 112
+
+Test 211
+Test 212
+================
+gpg test 1
+================
+test 1 from code server
+test 2 from code server
+
+test for signing
+test for signgin 2
+
+![pipeline status](https://img.shields.io/github/workflow/status/ansible-lockdown/RHEL8-CIS/CommunityToDevel?style=plastic)
+![Release version](https://img.shields.io/github/v/release/ansible-lockdown/RHEL7-STIG?style=plastic)
 
 Configure a RHEL 8 system to be DISA STIG compliant. All findings will be audited by default. Non-disruptive CAT I, CAT II, and CAT III findings will be corrected by default. Disruptive finding remediation can be enabled by setting `rhel8stig_disruption_high` to `yes`.
 
@@ -11,6 +40,8 @@ Requirements
 ------------
 
 RHEL 8 or CentOS 8 - Other versions are not supported.
+
+
 
 
 Dependencies
